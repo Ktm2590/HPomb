@@ -44,7 +44,7 @@
 * Python3.6 =<
 
 ## Installation :
-
+<lite-youtube videoid="5M0Br55bcUY" params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"></lite-youtube>
 <a href="https://youtu.be/5M0Br55bcUY" > Installation Video  : link</a>
 
 ### > For Linux:
